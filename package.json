@@ -1,0 +1,19 @@
+{
+  "name": "contento-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinins/contento-backend.git"
+  },
+  "author": "Olga Chinina <https://github.com/chinins>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinins/contento-backend/issues"
+  },
+  "homepage": "https://github.com/chinins/contento-backend#readme"
+}
