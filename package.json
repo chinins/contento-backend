@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon -r esm src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/chinins/contento-backend/issues"
   },
-  "homepage": "https://github.com/chinins/contento-backend#readme"
+  "homepage": "https://github.com/chinins/contento-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
